@@ -1,5 +1,5 @@
 pipeline{
-  agent ny
+  agent any
 
   stages {
     stage("Hello") {
